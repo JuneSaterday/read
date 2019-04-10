@@ -7,3 +7,6 @@ ribbon:
     enabled: false
 server:
   port: 8769
+spring:
+  application:
+    name: sunday
